@@ -9,6 +9,7 @@ Creating a new branch is quick AND simple.
 Try again.
 Once more. Just do it.
 Branch control.
+Bug branch.
 
 
 
