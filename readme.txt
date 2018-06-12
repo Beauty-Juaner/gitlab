@@ -7,6 +7,6 @@ Creating a new branch is quick.
 Creating a new branch is quick, one more time.
 Creating a new branch is quick AND simple.
 Try again.
-Once more. Delete it.
+Once more. Just do it.
 
 
